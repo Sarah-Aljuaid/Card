@@ -84,6 +84,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
+  background-color: aqua;
 }
 
 .subheading {
