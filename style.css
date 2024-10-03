@@ -44,6 +44,7 @@ body {
   color: hsl(228, 12%, 48%);
   font-family: "Montserrat", "Fraunces";
   font-weight: 500;
+  background-color: hsl(30, 38%, 92%);
 }
 .card-container {
   min-width: 43rem;
@@ -84,7 +85,6 @@ body {
   display: flex;
   flex-direction: column;
   gap: 2.4rem;
-  background-color: aqua;
 }
 
 .subheading {
