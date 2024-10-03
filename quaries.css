@@ -1,8 +1,16 @@
-/* @media (max-width: 24em) {
+@media (max-width: 24em) {
+  .cards-section {
+    background-color: hsl(30, 38%, 92%);
+    max-width: 24rem;
+    padding: 4.2rem 20rem;
+    margin: 0 auto;
+  }
+
   .card {
     grid-template-columns: 1fr;
+    gap: 0;
   }
   .product-img {
-    height: 50%;
+    height: 100%;
   }
-} */
+}
